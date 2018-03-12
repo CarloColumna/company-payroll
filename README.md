@@ -6,11 +6,9 @@ A company payroll app developed using Java. This app has the following features:
 
 ## Prerequisites
 - Java SE Development Kit
-- An editor that supports java
 
 ## Installation
 - Java SE Development Kit can be downloaded [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- IDE: Netbeans can be downloaded [here](https://netbeans.org/downloads/)
 
 ## Run
-Run the app through the editor.
+Run the app through the terminal or through an IDE like [NetBeans](https://netbeans.org/downloads/).
